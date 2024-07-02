@@ -1,5 +1,5 @@
 | btc_address | amount |
-|---|---|---|---|
+|---|---|
 | bc1pkql287epf43lf20n2hh43tuml5ztyf33pg7ye3u5t6rs7kpz5f4snwjjmj | 513 |
 | bc1pzpu7k5qkejqxp9paxvahhe28804an7rpmjmpxqcern7t90e2e0eq42jcj0 | 424 |
 | bc1pnvqnpraljh58znz5qfq7jzwezy8dhaqk7tp7prmuyj5mu9a2edts064lwk | 339 |
